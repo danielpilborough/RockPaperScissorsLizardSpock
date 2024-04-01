@@ -1,50 +1,43 @@
-# Project Title
+# Rock-Paper-Scissors-Lizard-Spock
 
-Simple overview of use/purpose.
+Fun game of Rock, Paper, Scissors, Lizard, Spock made in Javascript.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+I've been learning Javascript and whilst doing the 'mandatory' rock, paper, scissor tutorial from Bro Code on YouTube I
+decided to add some 'complexity' to it to demonstate to myself that I understood what I was learning.
+Im a big fan of the Bing Bang Theory so it was only natuall to add Lizard and Spock into the mix!
+
+The website is simple, you have 5 options to choose from, 'Rock','Paper','Scissors','Lizard','Spock', once you have
+selected your option the computer will choose an option at random and you will be shown the outcome.
+First to 10 wins!
+
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/demo.png" alt="Logo" width="80" height="80">
+  </a>
+
+
+
+Bro Code video link below
+________________________________________________________
+[Build JavaScript ROCK PAPER SCISSORS in 18 minutes! 👊](https://www.youtube.com/watch?v=3uKdQx-SZ5A&t=772s)
+________________________________________________________
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Vanlilla JS, CSS and HTML
 
-### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Simply open the HTML page
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
