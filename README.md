@@ -14,8 +14,13 @@ First to 10 wins!
 
 
   <a href="https://github.com/danielpilborough/RockPaperScissorLizardSpock">
-    <img src="images/demo.png" alt="Logo" width="200" height="150">
+    <img src="images/demo.png" alt="Logo" width="400" height="250">
   </a>
+
+  <a href="https://upload.wikimedia.org/wikipedia/en/c/cc/Rock_paper_scissors_lizard_spock.png">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Rock_paper_scissors_lizard_spock.png" alt="Logo" width="400" height="250">
+  </a>
+
 
 
 
@@ -29,7 +34,9 @@ ________________________________________________________
 
 ### Dependencies
 
-* Vanlilla JS, CSS and HTML
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
@@ -44,13 +51,11 @@ ________________________________________________________
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Bro Code: YouTube](https://www.youtube.com/@BroCodez)
+* [Big Band Theory](https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock)
