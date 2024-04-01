@@ -5,8 +5,8 @@ Fun game of Rock, Paper, Scissors, Lizard, Spock made in Javascript.
 ## Description
 
 I've been learning Javascript and whilst doing the 'mandatory' rock, paper, scissor tutorial from Bro Code on YouTube I
-decided to add some 'complexity' to it to demonstate to myself that I understood what I was learning.
-Im a big fan of the Bing Bang Theory so it was only natuall to add Lizard and Spock into the mix!
+decided to add some 'complexity' to it to demonstrate to myself that I understood what I was learning.
+Im a big fan of the Bing Bang Theory so it was only natual to add Lizard and Spock into the mix!
 
 The website is simple, you have 5 options to choose from, 'Rock','Paper','Scissors','Lizard','Spock', once you have
 selected your option the computer will choose an option at random and you will be shown the outcome.
