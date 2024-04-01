@@ -12,11 +12,11 @@ The website is simple, you have 5 options to choose from, 'Rock','Paper','Scisso
 selected your option the computer will choose an option at random and you will be shown the outcome.
 First to 10 wins!
 
-<div align="center">
+
   <a href="https://github.com/danielpilborough/RockPaperScissorLizardSpock">
     <img src="images/demo.png" alt="Logo" width="200" height="150">
   </a>
-<div>
+
 
 
 
