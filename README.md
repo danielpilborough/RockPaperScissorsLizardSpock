@@ -13,9 +13,10 @@ selected your option the computer will choose an option at random and you will b
 First to 10 wins!
 
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/demo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/danielpilborough/RockPaperScissorLizardSpock">
+    <img src="images/demo.png" alt="Logo" width="200" height="150">
   </a>
+<div>
 
 
 
